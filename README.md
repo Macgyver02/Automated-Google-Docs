@@ -1,5 +1,6 @@
 # Automated Google Docs
 
+
 ![License](https://img.shields.io/github/license/Macgyver02/Automated-Google-Docs)
 ![Stars](https://img.shields.io/github/stars/Macgyver02/Automated-Google-Docs)
 ![Forks](https://img.shields.io/github/forks/Macgyver02/Automated-Google-Docs)
@@ -22,6 +23,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
+
 
 Automated Google Docs is a robust solution for automating and managing Google Docs through the Google Docs API. It allows developers to programmatically create, edit, and organize documents, making it ideal for use cases such as report generation, dynamic document creation, and workflow automation within Google Workspace.
 
