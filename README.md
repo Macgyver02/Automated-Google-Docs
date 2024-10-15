@@ -23,7 +23,6 @@
 
 ## Introduction
 
-
 Automated Google Docs is a robust solution for automating and managing Google Docs through the Google Docs API. It allows developers to programmatically create, edit, and organize documents, making it ideal for use cases such as report generation, dynamic document creation, and workflow automation within Google Workspace.
 
 ## Features
